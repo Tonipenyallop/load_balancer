@@ -1,5 +1,7 @@
 # Load balancer project
 
+- https://samwho.dev/load-balancing/
+
 # Test speed
 
 - input number = 1000
