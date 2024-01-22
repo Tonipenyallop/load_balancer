@@ -16,6 +16,8 @@
 - 4. server respond to load balancer
 - 5. load balancer respond to the client
 
+- Make load balancer handler send request to 2 servers for optimize the time
+
 # From here
 
-- Make load balancer handler send request to 2 servers for optimize the time
+- Made load balancer with 3 servers yet, the speed doesn't change and worse, slower
